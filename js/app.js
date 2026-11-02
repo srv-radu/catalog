@@ -13,3 +13,10 @@ function afiseazaElevi() {
 }
 
 document.addEventListener("DOMContentLoaded", afiseazaElevi);
+
+// Adaugarea unei note noi pentru un elev
+function adaugaNota(idElev, nota) {
+  if (nota < 1 || nota > 10) { alert("Nota trebuie sa fie intre 1 si 10"); return; }
+  const elev = elevi.find(e => e.id === idElev);
+  if (elev) elev.note.push(nota);
+}
