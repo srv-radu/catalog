@@ -1,0 +1,7 @@
+# Fisiere ignorate de Git
+*.log
+logs/
+.env
+*.tmp
+node_modules/
+.vscode/
