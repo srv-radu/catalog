@@ -6,3 +6,6 @@ Sistem de gestiune a calificativelor într-un catalog electronic.
 - css/style.css – stilurile
 - js/app.js – logica aplicației
 - data/elevi.json – datele elevilor
+
+## Autor
+Secrier Radu
