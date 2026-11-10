@@ -6,3 +6,4 @@ th { background: #1f3a5f; color: #fff; }
 tr:nth-child(even) { background: #eef2f7; }
 button { background: #1f3a5f; color: #fff; border: none; padding: 6px 14px; cursor: pointer; }
 .absente-multe { color: #c0392b; font-weight: bold; }
+tr:hover { background: #dfe7f1; }
