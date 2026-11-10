@@ -5,3 +5,9 @@ logs/
 *.tmp
 node_modules/
 .vscode/
+
+# Lab 3 – configurari locale, temporare, generate automat
+config.local.json
+temp/
+build/
+*.bak
