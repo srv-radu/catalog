@@ -9,3 +9,7 @@ Sistem de gestiune a calificativelor într-un catalog electronic.
 
 ## Autor
 Secrier Radu
+
+## Functionalitate noua: evidenta absentelor
+- js/absente.js – marcarea si calculul absentelor
+- coloana „Absente” in tabelul elevilor
